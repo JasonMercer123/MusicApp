@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a87a60d-9a03-40dc-a806-64cc20a63a82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ikLv29XQAz2Ups6rYPLn08jcWt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jason's Music Player" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a87a60d-9a03-40dc-a806-64cc20a63a82" name="Default Changelist" comment="" />
+      <created>1602446869366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602446869366</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603782023602">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603782023602" />
+    <state x="365" y="181" key="FileChooserDialogImpl" timestamp="1603780566413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="181" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603780566413" />
+    <state x="124" y="212" width="920" height="428" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1603782134973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="124" y="212" width="920" height="428" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1603782134973" />
+    <state x="242" y="196" key="run.anything.popup" timestamp="1603782027478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="242" y="196" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603782027477" />
+  </component>
+</project>

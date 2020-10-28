@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/nav_upload_single"
+        app:showAsAction="never"
+        android:title="Upload Single Song"
+        android:icon="@drawable/ic_cloud_upload"/>
+
+    <item android:id="@+id/nav_upload"
+        app:showAsAction="never"
+        android:title="Upload Multiple Songs"
+        android:icon="@drawable/ic_cloud_upload"/>
+
+    <item android:id="@+id/refresh_layout"
+        app:showAsAction="always"
+        android:title="reload"
+        android:icon="@drawable/ic_refresh"/>
+
+
+</menu>

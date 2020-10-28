@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545656482563",
+    "firebase_url": "https://jprmusicapp.firebaseio.com",
+    "project_id": "jprmusicapp",
+    "storage_bucket": "jprmusicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545656482563:android:26ff651ce27620b71dd736",
+        "android_client_info": {
+          "package_name": "com.jason.jprmusicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545656482563-quvp40bo16e2th4u3i77gb40ncdvostv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4W8ELOEjKnUdsAXQx0FNJB6AMytlY2Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545656482563-quvp40bo16e2th4u3i77gb40ncdvostv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
